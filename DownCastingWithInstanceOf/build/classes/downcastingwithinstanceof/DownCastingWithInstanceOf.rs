@@ -1,0 +1,3 @@
+downcastingwithinstanceof.DownCastingWithInstanceOf
+downcastingwithinstanceof.Dog3
+downcastingwithinstanceof.Animal
